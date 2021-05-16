@@ -1,0 +1,5 @@
+.gradle/
+build/
+gradle/wrapper/*.jar
+src/main/kotlin/*.jar
+src/test/kotlin/*.jar
